@@ -1,0 +1,24 @@
+{
+  "name": "projeto-nuvem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianeusantiago/projeto-nuvem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ianeusantiago/projeto-nuvem/issues"
+  },
+  "homepage": "https://github.com/ianeusantiago/projeto-nuvem#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
