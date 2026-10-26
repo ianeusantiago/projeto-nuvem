@@ -3,7 +3,7 @@ const app = express();
 
 
 app.get("/", function(req,res){
-    res.send("<h1>Site para exercício do conteúdo GIT do Ian e do Alan</h1>");
+    res.send("<h1>Site para exercício do conteúdo de hoje GIT do Ian e do Alan</h1>");
 })
 
 
